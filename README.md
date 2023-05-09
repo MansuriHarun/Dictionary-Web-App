@@ -7,7 +7,7 @@ This is a web app that allows you to search for definitions of English words usi
 - JavaScript
 
 # APIs Used
-- Dictionary API: [Dictionary API](https://api.dictionaryapi.dev).
+- Dictionary API: [Dictionary API](https://dictionaryapi.dev).
 
 # Features
 - Search for definitions of English words
@@ -21,7 +21,7 @@ This is a web app that allows you to search for definitions of English words usi
 4. The definition of the word will be displayed below the search box
 
 # Credits
-This web app uses the Dictionary API to fetch definitions of English words. The API documentation can be found at [Dictionary API](https://api.dictionaryapi.dev).
+This web app uses the Dictionary API to fetch definitions of English words. The API documentation can be found at [Dictionary API](https://dictionaryapi.dev).
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
